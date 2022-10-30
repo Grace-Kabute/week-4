@@ -29,9 +29,9 @@
 
 
         if (firstLetter === 'j') {
-            helloSpeaker.hello();
-        } else {
             speakGoodbye.hello();
+        }  else {
+            helloSpeaker.hello();
         }
     };
 })();
