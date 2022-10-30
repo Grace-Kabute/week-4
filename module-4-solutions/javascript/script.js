@@ -30,7 +30,7 @@
 
         if (firstLetter === 'j') {
             speakGoodbye.hello();
-        } else {
+        }  else {
             helloSpeaker.hello();
         }
     };
